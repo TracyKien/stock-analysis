@@ -15,10 +15,12 @@ I created a code to help Steve figure out the return of different green energy s
 Now Steve can take this information that I provided him and use it on future analyses. However, if he wanted to run the code on a much larger dataset than what he provided us to analyze, it could potentially take longer to excute. I had to refactor the original code to make it more efficient and run faster for Steve. 
 
 If you look at the following images, you can see that the orignal code took 1.234375 seconds to exceute theough all of the data for 2017. By refactoring the code, the new runtime was only 0.2109375 seconds, which is significantly faster.
+
 ![This is an image](https://github.com/TracyKien/stock-analysis/blob/main/Resources/VBA_Challenge_2017%20Original%20Time.PNG?raw=true)
 ![This is an image](https://github.com/TracyKien/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png?raw=true)
 
 The same proved true for the 2018 data.
+
 ![This is an image](https://github.com/TracyKien/stock-analysis/blob/main/Resources/VBA_Challenge_2018%20Original%20Time.PNG?raw=true)
 ![This is an image](https://github.com/TracyKien/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG?raw=true)
 
