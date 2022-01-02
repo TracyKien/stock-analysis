@@ -27,7 +27,5 @@ The same proved true for the 2018 data.
 
 
 ## Summary
-Summary: In a summary statement, address the following questions.
-What are the advantages or disadvantages of refactoring code?
-How do these pros and cons apply to refactoring the original VBA script?
+Steve will not be able to run the new macros that I provided him to run analyses on whatever datasets he needs to in order to help his parents diversify their funds or use it to help new clients. One of the advantages of refactoring the original code was that the script was able to run significantly faster. A disadvantage I found was trying to figure out how to change the code to get it to work correctly like before.
 
