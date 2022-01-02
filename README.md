@@ -13,7 +13,8 @@ I created a code to help Steve figure out the return of different green energy s
 ![This is an image](https://github.com/TracyKien/stock-analysis/blob/main/Resources/Return%20Status%20for%202018.PNG?raw=true)
 
 
-##Refactoring the Original Code
+## Refactoring the Original Code
+
 ![This is an image](https://github.com/TracyKien/stock-analysis/blob/main/Resources/VBA_Challenge_2017%20Original%20Time.PNG?raw=true)
 ![This is an image](https://github.com/TracyKien/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png?raw=true)
 
