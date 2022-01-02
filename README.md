@@ -6,6 +6,10 @@ The purpose of this project is to help Steve, a recent finance graduate, help hi
 ## Results
 Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
+![This is an image](https://github.com/TracyKien/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png?raw=true)
+
+![This is an image](https://github.com/TracyKien/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG?raw=true)
+
 
 
 ## Summary
