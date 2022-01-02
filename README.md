@@ -6,6 +6,14 @@ The purpose of this project is to help Steve, a recent finance graduate, help hi
 ## Results
 Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
+I created a code to help Steve figure out the return of different green energy stocks to see whether or not some would be worth looking into for his parents for them to diversify their funds. 
+
+![This is an image](https://github.com/TracyKien/stock-analysis/blob/main/Resources/Return%20Status%20for%202017.PNG?raw=true)
+
+![This is an image](https://github.com/TracyKien/stock-analysis/blob/main/Resources/Return%20Status%20for%202018.PNG?raw=true)
+
+
+##Refactoring the Original Code
 ![This is an image](https://github.com/TracyKien/stock-analysis/blob/main/Resources/VBA_Challenge_2017%20Original%20Time.PNG?raw=true)
 ![This is an image](https://github.com/TracyKien/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png?raw=true)
 
